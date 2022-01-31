@@ -410,6 +410,10 @@ img {
         height: auto;
         overflow-y: auto;
     }
+    .right_sideBar {
+        height: auto;
+        overflow-y: auto;
+    }
     .left_sideBar {
         position: fixed;
         background-color: #fff;
