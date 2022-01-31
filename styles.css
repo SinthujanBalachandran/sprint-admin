@@ -407,11 +407,11 @@ img {
         flex-direction: column;
     }
     .main_container {
-        height: auto;
+        height: max-content;
         overflow-y: auto;
     }
     .right_sideBar {
-        height: auto;
+        height: max-content;
         overflow-y: auto;
     }
     .left_sideBar {
